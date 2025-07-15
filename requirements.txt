@@ -1,0 +1,9 @@
+streamlit
+openai
+requests
+pillow
+PyPDF2
+gTTS
+SpeechRecognition
+streamlit-webrtc
+python-dotenv
